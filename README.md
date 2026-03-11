@@ -1,14 +1,11 @@
 <pre>
-Hello 👋, I’m Binod Budha.
-I am a third-year Computer Science and Engineering student passionate about building intelligent systems and real-world applications.
+Hello 👋 I'm Binod Budha
+CSE (3rd Year) Student
 
-🤖 I am highly interested in Artificial Intelligence and Machine Learning, and I enjoy creating AI/ML models that solve real-world problems.
+🤖 Interested in AI & ML model development
+💻 Languages: Java, Python, JavaScript
+🌐 Full Stack: MERN (MongoDB, Express, React, Node)
+🗄️ Databases: SQL & MongoDB
 
-💻 The primary languages I work with are Java, Python, and JavaScript.
-
-🌐 I also build full-stack web applications using the MERN stack (MongoDB, Express, React, Node.js).
-
-🗄️ For databases, I work with SQL and MongoDB to design and manage scalable data systems.
-
-I enjoy learning new technologies, building innovative projects, and continuously improving my problem-solving skills.
+🚀 Love building projects and learning new technologies
 </pre>
