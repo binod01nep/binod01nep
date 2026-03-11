@@ -1,10 +1,14 @@
 Hello 👋, I’m Binod Budha.<br>
-I am a third-year Computer Science and Engineering student.<br><br>
+I am a third-year Computer Science and Engineering student passionate about building intelligent systems and real-world applications.<br><br>
 
-💻 I primarily work with Java, Kotlin, and C. Also I have good command on React JS ,Tailwind Css for frontend.<br>
-🔧 I am passionate about backend development and building scalable server-side applications.<br>
-🗄️ I have a strong command of MySQL and MongoDB.<br><br>
+🤖 I am highly interested in Artificial Intelligence and Machine Learning, and I enjoy creating AI/ML models that solve real-world problems.<br>
 
-I enjoy learning new technologies and continuously improving my problem-solving skills.
+💻 The primary languages I work with are Java, Python, and JavaScript.<br>
+
+🌐 I also build full-stack web applications using the MERN stack (MongoDB, Express, React, Node.js).<br>
+
+🗄️ For databases, I work with SQL and MongoDB to design and manage scalable data systems.<br><br>
+
+I enjoy learning new technologies, building innovative projects, and continuously improving my problem-solving skills.
 
 
