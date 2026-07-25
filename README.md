@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:00F7FF&height=220&section=header&text=Binod%20Budha&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:00F7FF&height=230&section=header&text=Binod%20Budha&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=20&descAlignY=56&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=600&height=40&lines=Building+with+React+%2B+Node+%2B+MongoDB;Training+models%2C+shipping+products;CSE+%402027+%40+PDEU%2C+Gandhinagar;Open+to+internships+%26+full-time+roles" alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=650&height=40&lines=Building+with+React+%2B+Node+%2B+MongoDB;Training+models%2C+shipping+real+products;CSE+%402027+%40+PDEU%2C+Gandhinagar;Open+to+internships+%26+full-time+roles" alt="typing" />
 
-<br/><br/>
+<br/>
 
 <a href="https://budhabinod.com.np"><img src="https://img.shields.io/badge/PORTFOLIO-budhabinod.com.np-0F172A?style=for-the-badge&logoColor=white&labelColor=0F172A&color=00F7FF"/></a>
 <a href="https://github.com/binod01nep"><img src="https://img.shields.io/badge/GITHUB-binod01nep-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A&color=7C3AED"/></a>
@@ -12,43 +12,66 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7C3AED&height=3&width=100%"/>
+
+## ⚡ About Me
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&height=30&lines=B.Tech+CSE+%40+PDEU%2C+Gandhinagar+%E2%80%94+Class+of+2027;AI%2FML+%2B+Full+Stack+(MERN)+engineering;Building+the+N100+Financial+Intelligence+Platform;Leveling+up+in+System+Design%2C+Advanced+ML%2C+Cloud;Open+to+internships+%26+full-time+roles" alt="about-typing"/>
+</div>
+
 <br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+<table align="center" width="100%">
+<tr>
+<td align="center" width="20%">
+<img width="46" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/><br/>
+<b>Education</b><br/>
+<sub>B.Tech CSE, PDEU<br/>2023 – 2027</sub>
+</td>
+<td align="center" width="20%">
+<img width="46" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"/><br/>
+<b>Focus</b><br/>
+<sub>AI / ML +<br/>Full Stack MERN</sub>
+</td>
+<td align="center" width="20%">
+<img width="46" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/><br/>
+<b>Building</b><br/>
+<sub>N100 Financial<br/>Intelligence Platform</sub>
+</td>
+<td align="center" width="20%">
+<img width="46" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"/><br/>
+<b>Learning</b><br/>
+<sub>System Design,<br/>Advanced ML, Cloud</sub>
+</td>
+<td align="center" width="20%">
+<img width="46" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"/><br/>
+<b>Status</b><br/>
+<sub>Open to internships<br/>& full-time roles</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
-## ⚡ About
-
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
-- 🎓 B.Tech CSE @ **PDEU, Gandhinagar** — Class of 2027
-- 🧠 Focused on **AI / ML** + **Full Stack (MERN)** engineering
-- 📊 Currently building **N100 Financial Intelligence Platform** — a Mutual Fund Analytics capstone for a Bluestock Fintech internship
-- 🌱 Leveling up in **System Design · Advanced ML · Cloud**
-- 🚀 **Open to internships & full-time roles** — let's build something
-- ⚙️ Philosophy: ship things that are *actually* useful, not just impressive on paper
-
-<br clear="right"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7C3AED&height=3&width=100%"/>
 
 ## 🧩 Tech Arsenal
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,py,fastapi,git,figma,vscode&perline=11"/>
+
+<br/><br/>
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F7FF&height=3&width=100%"/>
 
 ## 🚀 Projects That Ship
 
@@ -109,6 +132,8 @@ Responsive personal site showcasing projects, skills, and certifications.
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7C3AED&height=3&width=100%"/>
+
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -121,16 +146,26 @@ Responsive personal site showcasing projects, skills, and certifications.
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=binod01nep&theme=synthwave&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=binod01nep&theme=synthwave&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
 </div>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=binod01nep&theme=discord&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F7FF&height=3&width=100%"/>
+
+<div align="center">
+
+### 💭
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</div>
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7C3AED,100:0F172A&height=180&section=footer&animation=fadeIn"/>
 
 <div align="center">
 <sub>⭐ Thanks for scrolling this far — <a href="https://budhabinod.com.np">let's connect</a></sub>
