@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:00F7FF&height=230&section=header&text=Binod%20Budha&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=20&descAlignY=56&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=650&height=40&lines=Building+with+React+%2B+Node+%2B+MongoDB;Training+models%2C+shipping+real+products;CSE+%402027+%40+PDEU%2C+Gandhinagar;Open+to+internships+%26+full-time+roles" alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=23&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=650&height=40&lines=Building+with+React+%2B+Node+%2B+MongoDB;Training+models%2C+shipping+real+products;CSE+%402027+%40+PDEU%2C+Gandhinagar;Open+to+internships+%26+full-time+roles" alt="typing" />
 
 <br/>
 
 <a href="https://budhabinod.com.np"><img src="https://img.shields.io/badge/PORTFOLIO-budhabinod.com.np-0F172A?style=for-the-badge&logoColor=white&labelColor=0F172A&color=00F7FF"/></a>
-<a href="https://github.com/binod01nep"><img src="https://img.shields.io/badge/GITHUB-binod01nep-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A&color=7C3AED"/></a>
+
 <img src="https://komarev.com/ghpvc/?username=binod01nep&style=for-the-badge&color=00F7FF&labelColor=0F172A&label=PROFILE+VIEWS"/>
 
 </div>
@@ -19,7 +19,7 @@
 ## ⚡ About Me
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&height=30&lines=B.Tech+CSE+%40+PDEU%2C+Gandhinagar+%E2%80%94+Class+of+2027;AI%2FML+%2B+Full+Stack+(MERN)+engineering;Building+the+N100+Financial+Intelligence+Platform;Leveling+up+in+System+Design%2C+Advanced+ML%2C+Cloud;Open+to+internships+%26+full-time+roles" alt="about-typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&height=30&lines=B.Tech+CSE+%40+PDEU%2C+Gandhinagar+%E2%80%94+Class+of+2027;AI%2FML+%2B+Full+Stack+(MERN)+engineering;Building+the+N100+Financial+Intelligence+Platform;Leveling+up+in+System+Design%2C+Advanced+ML%2C+Cloud;Open+to+internships+%26+full-time+roles" alt="about-typing"/>
 </div>
 
 <br/>
